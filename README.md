@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juanxc
+- 👋 Hi, I’m Juan
 - 👀 I work with these web technologies (angular, .net)
 - 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on innovative projects
