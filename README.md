@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan
 - 👀 I work with these web technologies (angular, .net)
-- 🌱 I’m currently learning next.js
+- 🌱 I’m currently working with next.js on my hotel app.
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me jnxcastro@gmail.com
 
