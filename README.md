@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Juan
-- 👀 I work with these web technologies (angular, .net)
-- 🌱 I’m currently working with next.js on my hotel app.
-- 💞️ I’m looking to collaborate on innovative projects
+- 👋 Hi, I’m Juan, a web developer.
+- 👀 I have experience with these web technologies (angular, .net Core C#, PL/SQL).
+- 🗂️ I developed a hotel app with react, nextjs and tailwindcss.
+- 🌱 I’m currently working with astro in my porftolio.
+- 💞️ I’m looking to collaborate on innovative projects.
 - 📫 How to reach me jnxcastro@gmail.com
 
 <!---
