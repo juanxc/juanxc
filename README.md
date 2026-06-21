@@ -1,5 +1,5 @@
 ## Hello, 👋 It's [Juan]
-I'm a Frontend developer with experience in Angular, .Net Core C# and PL/SQL.
+I'm a Frontend developer with experience in Angular 21, .Net Core 10 C# and PL/SQL.
 
 <br/>
 
